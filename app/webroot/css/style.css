@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+body{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:100%;font-weight:400;line-height:1.42857143;color:#404040;}
+p,span,div,a,button,input{font-size:1.4rem;font-weight:400;line-height:1.5;}
+h3{font-size:2.1rem;font-weight:400;line-height:1.5}
+a i.fa {cursor: pointer !important; }
+html, body { height: 100%; margin: 0px; padding: 0px; background:#fff; }
+.padding-left-10{padding-left:10px}
+.padding-left-0{padding-left: -1px !important;}
+.padding-left-35{padding-left:35px !important;}
+.padding-right-0{padding-right:0px!important;}
+.padding-right-10 { padding-right: 10px; }
+.padding-right-0{ padding-right: -1px !important;}
+.padding-right-15{ padding-right: 15px !important;}
+.padding-right-70{ padding-right: 70px !important;  }
+.padding-right-40{ padding-right: 40px !important;  }
+.padding-right-57{ padding-right: 57px !important;  }
+.padding-right-27{ padding-right: 27px !important;  }
+.padding-right-20{padding-right:20px !important;}
+.padding-bottom-10{padding-bottom:10px;}
+.padding-top-10{padding-top:10px;}
+.margin-top-30{margin-top:30px;}
+.margin-top-40{margin-top:40px;}
+.margin-top-100{margin-top:100px;}
+.margin-top-0{margin-top:0px}
+.margin-top-10{margin-top:10px;}
+.margin-top-15{margin-top:15px;}
+.margin-bottom-0{margin-bottom:0px;}
+.margin-bottom-10{margin-bottom:10px;}
+.margin-bottom-20{ margin-bottom:20px; }
+.margin-bottom-100{margin-bottom:100px;}
+.margin-left-40{margin-left:40px!important;}
+.margin-left-62{margin-left:62px!important;}
+.margin-left-30{margin-left:30px!important;}
+.margin-right-0{ margin-right: -1px !important;}
+.margin-right-100{ margin-right: 100px !important;  }
+.margin-right-70{ margin-right: 70px !important;  }
+.margin-right-74{ margin-right: 74px !important;  }
+.margin-right-40{ margin-right: 40px !important;  }
+.margin-right-120{ margin-right: 100px !important;  }
+.margin-right-20{margin-right:20px !important;}
+.white-bg{background:#fff;}
+.control-group label  { margin-bottom:7px !important; }
+.primary-cta{ background:#43a847!important; border:1px solid #2b892f!important; font-weight:bold;}
+.btn{ font-weight:bold; color: white; background-color:#f98006!important; }
+.modal-header{ background-color:#008300!important; }
+.input-group{ padding-left: 15px !important;padding-right: 15px !important; }
+.units{}
+.bold{font-weight:bold; }
+.custom-lable{font-weight:bold !important;
+width:100% !important; }
+.bg-success{ background-color: #dff0d8 !important;}
+.cards{
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 7px !important;
+    display: block;
+    margin-bottom: 0.75rem;
+    position: relative;
+}
+.c-table{
+    max-width: 97%;
+    padding: 10px!important;
+    margin-left: 4px!important;
+}
+.border-radious{border-radius: 3px !important;  border: 1px solid rgba(0, 0, 0, 0.125);}
